@@ -26,6 +26,9 @@ public class LinkedListDemo {
         ll.remove(0);
         System.out.println(ll);
         
+        ll.add(1, "Y");
+        System.out.println(ll);
+        
         int i = ll.size();
         System.out.println(i);
     }
