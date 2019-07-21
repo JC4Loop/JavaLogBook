@@ -1,0 +1,9 @@
+!SESSION 2019-07-21 18:06:36.899 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_221
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.jdt.launching 4 150 2019-07-21 18:08:14.058
+!MESSAGE The project: org.eclipse.swt which is referenced by the classpath, does not exist.
